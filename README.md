@@ -13,10 +13,10 @@ Currently a student passionate about programming, automation, and problem-solvin
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=C2-07&show_icons=true&theme=dark)
 
 ## 🔥 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=C2-07&layout=compact&theme=dark)
 
 ---
 🚀 Always learning and exploring new technologies!
