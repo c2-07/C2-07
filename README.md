@@ -1,5 +1,5 @@
 # About Me:
-👋 Hi, I'm Gaurav!  
+Heyyy, I'm Gaurav!  
 Currently a student passionate about programming, automation, and problem-solving.
 
 ## 🔗 Socials:
@@ -19,4 +19,3 @@ Currently a student passionate about programming, automation, and problem-solvin
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=C2-07&layout=compact&theme=dark)
 
 ---
-🚀 Always learning and exploring new technologies!
