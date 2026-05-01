@@ -25,12 +25,5 @@ A student developer focused on backend systems, automation, and scalable tools. 
 
 ---
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/gouravjareda/gouravjareda/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-
 > Mostly interested in backend engineering, automation, and building developer-focused systems.
 > I don't like Frontend stuff :<
