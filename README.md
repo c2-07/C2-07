@@ -1,20 +1,33 @@
 # About Me:
-Heyyy, I'm Gaurav!  
-Currently a student passionate about programming, automation, and problem-solving.
+
+Hey, I'm Gourav!
+A student developer focused on backend systems, automation, and scalable tools. I enjoy solving problems, designing practical systems, and learning how things work under the hood.
 
 ## 🔗 Socials:
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/gourav_jareda)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gouravjareda/)
+
+[![X](https://img.shields.io/badge/X-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/gourav_jareda)
 
 ## 🛠️ Tech Stack:
 
 ### Languages
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
 
 ### Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Raylib](https://img.shields.io/badge/-Raylib-000000?style=flat-square&logo=raylib&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 
 ---
+
+> Mostly interested in backend engineering, automation, and building developer-focused systems.
+> I Don't like Frontend stuff :<
