@@ -3,10 +3,6 @@
 Hey, I'm Gourav!
 A student developer focused on backend systems, automation, and scalable tools. I enjoy solving problems, designing practical systems, and learning how things work under the hood.
 
-## 🔗 Socials:
-
-[![X](https://img.shields.io/badge/X-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/gourav_jareda)
-
 ## 🛠️ Tech Stack:
 
 ### Languages
@@ -29,5 +25,12 @@ A student developer focused on backend systems, automation, and scalable tools. 
 
 ---
 
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/gouravjareda/gouravjareda/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+
 > Mostly interested in backend engineering, automation, and building developer-focused systems.
-> I Don't like Frontend stuff :<
+> I don't like Frontend stuff :<
