@@ -1,14 +1,12 @@
 <h1 align="center">Gourav</h1>
 <p align="center">Backend · Systems Programming · Automation</p>
 
----
 
 ## About
 
 CS student. I build backend systems, developer tools, and automation software.
 Interested in how things work under the hood — networking, concurrency, OS internals, scalable architecture.
 
----
 
 ## Tech Stack
 
