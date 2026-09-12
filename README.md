@@ -6,7 +6,7 @@
 
 CS student building backend systems, developer tools, and automation software.
 
-Interested in how things work under the hood — networking, concurrency,
+Interested in networking, concurrency,
 OS internals, and scalable architecture.
 
 <br>
@@ -33,10 +33,8 @@ OS internals, and scalable architecture.
 
 <br>
 
-### Currently Learning
-
-`Operating Systems` · `Computer Networks` · `Concurrency`
-· `Distributed Systems`
+### Hobbies
+Wanna be gameDev
 
 <br>
 
