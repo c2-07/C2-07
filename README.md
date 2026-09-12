@@ -27,14 +27,7 @@ OS internals, and scalable architecture.
 
 `Linux` · `Docker` · `Git` · `CMake` · `Bash` · `GitHub Actions`
 
-### Libraries
-
-`Raylib` · `Pandas` · `Matplotlib`
-
-<br>
-
-### Hobbies
-Wanna be gameDev
+`Wanna be gameDev and Graphic Programmer :<`
 
 <br>
 
